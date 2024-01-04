@@ -63,5 +63,4 @@ document.getElementById('verify-pin').addEventListener('click', function(){
         pinSuccessMassege.style.display = 'none';
     }
 
-
 })
